@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omnicasa.CloudStorage.Messages", "Omnicasa.CloudStorage.Messages\Omnicasa.CloudStorage.Messages.csproj", "{04FB9620-B89D-49DC-85C5-1D84CF5963A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omnicasa.CloudStorage.UploadTrackingService", "Omnicasa.CloudStorage.UploadTrackingService\Omnicasa.CloudStorage.UploadTrackingService.csproj", "{3AC3F58C-15F1-4D06-830C-47807B970E47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omnicasa.CloudStorage.UploadFileToOvh", "Omnicasa.CloudStorage.UploadFileToOvh\Omnicasa.CloudStorage.UploadFileToOvh.csproj", "{4797C111-5D37-4D49-8DDB-F0003F120D40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omnicasa.CloudStorage.UploadFileToGoogle", "Omnicasa.CloudStorage.UploadFileToGoogle\Omnicasa.CloudStorage.UploadFileToGoogle.csproj", "{7B6DF48B-9265-4184-85A6-86D181931607}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMessage", "TestMessage\TestMessage.csproj", "{D1DA5B23-C761-45AA-B543-59EFF539AF1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Omnicasa.CloudStorage.SaveFileToLocal", "Omnicasa.CloudStorage.SaveFileToLocal\Omnicasa.CloudStorage.SaveFileToLocal.csproj", "{0AD69C86-3813-49A3-AE8F-9AA9976B4B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FB9620-B89D-49DC-85C5-1D84CF5963A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FB9620-B89D-49DC-85C5-1D84CF5963A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FB9620-B89D-49DC-85C5-1D84CF5963A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FB9620-B89D-49DC-85C5-1D84CF5963A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AC3F58C-15F1-4D06-830C-47807B970E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC3F58C-15F1-4D06-830C-47807B970E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC3F58C-15F1-4D06-830C-47807B970E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC3F58C-15F1-4D06-830C-47807B970E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4797C111-5D37-4D49-8DDB-F0003F120D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4797C111-5D37-4D49-8DDB-F0003F120D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4797C111-5D37-4D49-8DDB-F0003F120D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4797C111-5D37-4D49-8DDB-F0003F120D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B6DF48B-9265-4184-85A6-86D181931607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6DF48B-9265-4184-85A6-86D181931607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6DF48B-9265-4184-85A6-86D181931607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6DF48B-9265-4184-85A6-86D181931607}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1DA5B23-C761-45AA-B543-59EFF539AF1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1DA5B23-C761-45AA-B543-59EFF539AF1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1DA5B23-C761-45AA-B543-59EFF539AF1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1DA5B23-C761-45AA-B543-59EFF539AF1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD69C86-3813-49A3-AE8F-9AA9976B4B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD69C86-3813-49A3-AE8F-9AA9976B4B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD69C86-3813-49A3-AE8F-9AA9976B4B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD69C86-3813-49A3-AE8F-9AA9976B4B70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
